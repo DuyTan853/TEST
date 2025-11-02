@@ -1,0 +1,31 @@
+﻿# Dependencies
+node_modules/
+*/node_modules/
+
+# Temp folders
+temp-*/
+
+# Environment
+.env
+.env.local
+*/.env
+
+# Build
+dist/
+build/
+*/dist/
+*/build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
